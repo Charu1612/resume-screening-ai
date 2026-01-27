@@ -241,9 +241,10 @@ resume-screening-ai/
 
 
 
-> 📌 **Tip:** Use PNG/JPG files and keep filenames lowercase.
-
+### Vedio Link
+https://youtu.be/ojSbkayNNE8?si=VgNRNOmRbYhVRBGx
 ---
+
 
 ## 🔮 Future Enhancements
 
